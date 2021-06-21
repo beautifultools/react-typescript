@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Typescript React App
+회사에서 기존 React App에 Typescript를 추가하는데 문제들이 있고, 진행하고 있는 사이드 프로젝트에서 Typescript로 React 진행 예정이라 여러가지 실험을 하고 그 결과를 기록하기 위한 프로젝트
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
